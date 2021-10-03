@@ -177,3 +177,11 @@ a.nav-item {
 .animate__heartBeat {
     animation-delay: 2s;
 }
+
+footer {
+    padding: 2rem;
+}
+
+footer p {
+    text-align: center;
+}
